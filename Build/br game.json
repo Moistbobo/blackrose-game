@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Defend The Choastle",
+"productVersion": "0.1",
+"dataUrl": "br game.data.unityweb",
+"asmCodeUrl": "br game.asm.code.unityweb",
+"asmMemoryUrl": "br game.asm.memory.unityweb",
+"asmFrameworkUrl": "br game.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.2f1"
+}
